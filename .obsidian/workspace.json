@@ -50,8 +50,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "f9b1bd380ea91cdd",
@@ -245,11 +244,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b2e2b2a869d6a41",
+  "active": "d89b314e426fd363",
   "lastOpenFiles": [
     "GDD.md",
-    "logs/gdd-log.md",
     "index.md",
+    "logs/gdd-log.md",
     "README.md",
     "utility/templates/LLM-log.md",
     "lore.md",
