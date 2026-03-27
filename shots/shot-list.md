@@ -85,3 +85,80 @@
 - **The girl must not look "cute" or "precious."** She is a trauma victim, not a storybook innocent. Her emptiness should be painful to look at.
 - **No excessive gore.** Blood is present, but the bodies are suggested, not lingered on. The focus is on the living.
 - **No clear visual cues for who is "right."** The scene should not tell the player who to side with. The tension should remain unresolved.
+
+## The Sleeping Messiah
+
+**Purpose:** One of the central characters of the story. The emotional anchor for the protagonist and the player. Represents the impossible cost of salvation — a child sacrificed without consent to sustain God and humanity.
+
+**Scene:** The protagonist's apartment, the same cramped space from earlier. On the bed, under a worn blanket, lies a child of about nine years old. He is sleeping, but this is not rest. His face is peaceful only at first glance — upon closer inspection, there is _strain_ beneath the surface, the tension of someone running a race in their dreams. His breathing is shallow, too slow, as if each breath costs effort. He is praying. Constantly. Without waking, without stopping, trapped in a loop of devotion meant to keep God alive. His small body is curled slightly, knees drawn up, hands somewhere beneath the blanket. He is exhausted — not the exhaustion of a child who played too hard, but the hollow fatigue of someone whose resources are being drained from the inside. The room is quiet, almost unnervingly so. The air feels heavy, cold, as if the warmth has been pulled toward something unseen. The boy's face is pale, lips slightly parted. If this continues, he will fade. He will simply run out.
+
+**Camera:** Medium shot, eye level with the bed. We see the child in full, the blanket pulled up to his chest. The bedside table is visible in the foreground, holding the remnants of the protagonist's former life — the vodka bottle is gone, the revolver is gone. In their place: a glass of water, untouched; a child's drawing, now displayed in a cheap frame; a small icon or candle (perhaps a sign of desperate hope). The room around him is softer, quieter, as if violence is not allowed near this bed.
+
+**Must-have:**
+
+- **The child:** Male, 9 years old. Small for his age, malnourished from his time in the orphanage and before. Hair dark, unwashed for days, matted against his forehead. Face: delicate features, but hollowed out. Cheekbones visible, dark circles under closed eyes. His expression is the most important element: not peaceful, not angelic — _strained_. Eyebrows slightly furrowed, lips moving imperceptibly as if whispering words no one can hear. He is _working_ in his sleep, and it is breaking him.
+    
+- **The pose:** Curled on his side, knees drawn toward chest, hands pressed together beneath the blanket or resting near his face. The pose of someone who is cold, someone trying to make themselves small, someone who has no one to hold them. The blanket is pulled up to his chest, but one small hand rests outside it, fingers limp.
+    
+- **The bed:** The same bed from the protagonist's earlier scene. The sheets are changed now — clean, at least. The pillow has a slight indent where the protagonist rests his head when he sleeps beside his son, watching for changes. The blanket is worn but warm. This bed has become a sanctuary, and a prison.
+    
+- **The lighting:** Grey, filtered daylight from the window, but it does not reach the child fully. His face is in soft shadow, as if the light itself avoids him. The room feels _colder_ than before, despite being the same space. Perhaps frost is beginning to form at the corners of the window.
+    
+- **The atmosphere:** Quiet, heavy, sacred in a way that has nothing to do with religion. This is not a peaceful sleep — it is a slow death. The room should feel like a waiting room. Something is ending here, and no one can stop it.
+    
+- **Details of exhaustion:** The child's lips are dry, slightly cracked. His breathing is visible as faint mist in the cold air. Occasionally, his fingers twitch, as if reaching for something in a dream. His eyelids flicker with REM sleep, but there is no rest in his face.
+    
+
+**Nice-to-have:**
+
+- A small child's drawing taped to the wall above the bed. Crude, crayon: a stick figure man holding a stick figure child, with a sun in the corner. Drawn before everything changed. Now it looks like a promise that cannot be kept.
+    
+- A glass of water on the bedside table, untouched for days. Beside it, a small icon or candle — something the protagonist placed there, hoping. The candle is unlit. Faith is not strong enough to light it.
+    
+- The protagonist's jacket draped over the chair nearby, as if he never leaves this room for long.
+    
+- Faint frost forming at the window edges, even though it is not winter. The cold is not outside — it is coming from the child, from the energy being pulled out of him.
+    
+- The blanket is slightly damp from sweat. The child's body is fighting to survive, even as his soul is drained.
+    
+
+**Avoid:**
+
+- **No "angelic" depiction.** The child is not a cherub, not glowing, not haloed. He is a dying boy. Any suggestion of holiness should come from the _tragedy_, not from visual clichés.
+    
+- **No peaceful sleep aesthetic.** This is not a "resting child" painting. He is not serene. He is _exhausted to the point of breaking_, even in sleep.
+    
+- **No dramatic lighting.** No shafts of divine light, no golden glow. Flat, grey, merciless daylight. This is not a miracle — it is a slow tragedy.
+    
+- **No overt religious symbols unless contextual.** A small icon or candle placed by the protagonist is acceptable as _his_ desperate gesture. But no crucifixes, no halos, no angel wings. The Messiah is not a religious symbol in the traditional sense — he is a child used as fuel.
+    
+- **No visible wounds or blood.** His damage is internal. He is not a martyr in the physical sense. His suffering is invisible, which makes it worse.
+    
+- **No sentimentality.** The scene should evoke sorrow, not pity. Pity distances the viewer. Sorrow connects them. The child is not a plot device to be mourned — he is a person being destroyed, and the player should feel the weight of that without being told how to feel.
+
+## The World Under Chemistry (Protagonist's Perspective)
+
+**Purpose:** The core gameplay aesthetic. Defines how the player experiences violence under the influence of the "divine chemistry." Establishes the visual language of addiction, euphoria, and self-deception.  
+**Scene:** The protagonist is mid-slaughter inside a building controlled by a criminal syndicate. His consciousness is completely submerged in the drug. Reality has fractured into something psychedelic, something _beautiful_ in its ugliness. Colors bleed, edges warp, light pulses to the rhythm of his heartbeat. The enemies are not people anymore — they are _demons_. Twisted figures in human clothes, their faces elongated, their eyes hollow pits, their mouths stretched into silent screams. They bleed black or neon ichor when struck. The protagonist wears his usual white t-shirt (now soaked in red), jeans, black fingerless gloves. In the frame, he is mid-action: a metal pipe raised high, about to bring it down on a fallen "demon" who lies writhing on the ground. His face is the most important element — not rage, not grim determination, but _ecstasy_. Eyes wide, pupils dilated, a smile somewhere between bliss and madness. He is high. He is killing. He is _enjoying_ it. The euphoria of the drug has fused with the violence into something indistinguishable. He does not know what he is doing. He will only understand when the trip ends — when the demons become people again, when the black blood turns red, when the silence of the dead replaces the soundtrack of his adrenaline. But now, in this moment, he is free. He is a weapon. He is doing what the Oracle commanded for the salvation of humanity, and it feels _good_.  
+**Camera:** Dynamic, low angle, slightly behind the protagonist, looking up at him as he brings the pipe down. The perspective is intimate — we are _in_ the violence with him, not observing from a distance. Motion blur, fish-eye distortion at the edges, lens flares from nonexistent light sources. The world bends around his action.  
+**Must-have:**
+
+- **The protagonist's face:** The focal point of the entire image. Eyes wide, almost feral. Pupils blown, irises barely visible. Sweat on his brow, hair matted to his forehead. His mouth is open — perhaps laughing, perhaps screaming, perhaps both. There is no pain here. Only _release_. This is a man who has been drowning and has finally stopped fighting. The drug has made the unacceptable acceptable, the unthinkable _desirable_. His expression should unsettle because it is not evil — it is _joy_, and joy has no place in what he is doing.
+- **The demons:** Humanoid, but wrong. Distorted proportions — too long limbs, too wide mouths, eyes that are empty black sockets or glow with sickly light. They wear recognizable human clothes (suits, jackets, tactical vests) but the clothes hang wrong, torn, stained with black fluid. When wounded, they bleed colors that shouldn't exist — neon pink, electric blue, toxic green. Their faces are masks of fear and rage, but abstracted, as if seen through cracked glass.
+- **The pipe:** A simple metal pipe, probably ripped from the building's plumbing. Already dented, stained. In the moment of the image, it is at the apex of its arc, about to connect. The motion is frozen, but the energy is clear — this blow will be brutal, final, and _satisfying_ to the man delivering it.
+- **The "demon" on the ground:** Already down, already wounded, crawling or trying to raise a hand in defense. Its face is twisted in fear, but distorted — we cannot fully see the humanity beneath. This is intentional. The drug hides the truth. The player should not be able to see the victim as human in this frame, only later, when the chemical haze lifts.
+- **The environment:** A location of wealth or power — an office, a warehouse, a mansion hallway — now destroyed. Bullet holes, shattered glass, overturned furniture. But everything is _warped_ — walls breathe, shadows move independently, light sources pulse like heartbeats. The architecture bends toward the protagonist, as if the world itself recognizes him as its center. Colors are saturated to the point of pain: reds that burn, greens that glow, blacks that swallow light.
+- **Blood and gore:** Abstracted. Under chemistry, blood is not blood. It sprays in geometric patterns, pools in impossible colors, evaporates into mist. The violence is _beautiful_ in this state, which is the horror of it. Later, when the drug fades, the reality of what he has done will hit him — and the player — like a physical blow.  
+    **Nice-to-have:**
+- Sound represented visually: visible sound waves pulsing from the protagonist, from the pipe, from the demons' screams. The drug blurs the senses; we should _see_ the noise.
+- After-images of the protagonist's movement, as if he is moving faster than reality can render.
+- Faint, almost invisible chains or threads connecting the protagonist to something outside the frame — the Oracle's presence, always there, always watching.
+- In the background, a mirror or reflective surface shows a _different_ scene: a man in a white t-shirt killing a person, not a demon. The reflection is small, easy to miss, but for players who notice, it reveals the truth beneath the drug.
+- The protagonist's white t-shirt, now almost entirely red, but the red is _too bright_, almost neon. The drug makes even the blood beautiful.  
+    **Avoid:**
+- **No "cool" violence.** This should not look like a music video, not like a stylish action movie. The aesthetics of the drug are beautiful, but the beauty must feel _wrong_. The player should be seduced by the visuals and simultaneously unsettled by their own attraction to them.
+- **No glorification of the protagonist's state.** He is not a hero in this moment. He is an addict, a weapon, a puppet. The joy on his face is the joy of surrender, not victory.
+- **No clarity.** The scene should be slightly _too much_ — too bright, too saturated, too distorted. The player should feel the disorientation of the drug, the loss of control, even as they are performing the violence.
+- **No clear distinction between "good" and "evil" enemies.** The demons are enemies, yes, but they are also _people_. The drug obscures this, but the art should hint at the truth beneath — in a reflection, in a moment of clarity, in a detail that doesn't quite fit the demonic form.
+- **No static composition.** The image should feel like a single frame ripped from something in motion — blurred edges, sense of speed, anticipation of the next blow.
+- **No overt moralizing.** The scene does not say "this is bad." It shows the experience of the drug, the ecstasy of violence, the beauty of destruction. The horror comes from what the player _knows_ outside this moment, and from what they will see when the drug wears off.
