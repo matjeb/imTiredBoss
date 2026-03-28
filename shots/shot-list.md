@@ -1,3 +1,4 @@
+create a concept-art for my indie-game scene. try to make a dirty graphic style with low-poly models like "mouthwashing", "psychopomp" or "ps1 aesthetic" styles. 
 # Shot ID: SH01
 
 ## Oracle's Office

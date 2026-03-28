@@ -6,7 +6,7 @@
       {
         "id": "f5ad2774eaaaf610",
         "type": "tabs",
-        "dimension": 67.94871794871796,
+        "dimension": 77.03252032520325,
         "children": [
           {
             "id": "8c840eb148a10ae9",
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "8d36404681ec2755",
+            "id": "872647503d5b027f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,16 +35,30 @@
               "icon": "lucide-file",
               "title": "gdd-log"
             }
+          },
+          {
+            "id": "4b2e2b2a869d6a41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "original.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "original"
+            }
           }
         ]
       },
       {
-        "id": "b2700c4446ba9ea1",
+        "id": "f9b1bd380ea91cdd",
         "type": "tabs",
-        "dimension": 32.05128205128205,
+        "dimension": 22.96747967479675,
         "children": [
           {
-            "id": "e40cfb1ac4bd7e9a",
+            "id": "d89b314e426fd363",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -108,20 +122,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Закладки"
-            }
-          },
-          {
-            "id": "94d417ccda26d660",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "utility/templates/LLM-log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LLM-log"
             }
           }
         ]
@@ -206,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/gdd-log.md",
+                "file": "promt-list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура gdd-log"
+              "title": "Структура promt-list"
             }
           },
           {
@@ -247,29 +247,29 @@
   "active": "8c840eb148a10ae9",
   "lastOpenFiles": [
     "logs/gdd-log.md",
-    "utility/templates/LLM-log.md",
     "shots/shot-list.md",
-    "notes.md",
-    "GDD.md",
-    "shots/shot-list",
     "shots",
-    "lore.md",
-    "gitignore.gitignore..txt",
-    "Текстовый документ.txt",
+    "notes.md",
+    "promt-list.md",
+    "GDD.md",
     "original.md",
+    "README.md",
+    "index.md",
+    "utility/templates/LLM-log.md",
+    "lore.md",
     "utility/templates",
     "utility",
-    "README.md",
-    "promt-list.md",
     "images/selected.md",
     "images/selected 1.md",
     "images/selected/b28fb797854d2826244b7e29e6a75207.png",
     "images/selected",
-    "index.md",
+    "Без названия",
     "asset-list.md",
     "logs",
     "images/raw/wehfwuf.md",
     "images/raw",
-    "images"
+    "images",
+    "Без названия.base",
+    "Без названия 1.base"
   ]
 }
