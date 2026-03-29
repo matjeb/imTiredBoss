@@ -6,7 +6,7 @@
       {
         "id": "f5ad2774eaaaf610",
         "type": "tabs",
-        "dimension": 75.74525745257452,
+        "dimension": 74.1869918699187,
         "children": [
           {
             "id": "8c840eb148a10ae9",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scenario.md",
+                "file": "shots/shot-list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "scenario"
+              "title": "shot-list"
             }
           },
           {
@@ -55,7 +55,7 @@
       {
         "id": "f9b1bd380ea91cdd",
         "type": "tabs",
-        "dimension": 24.254742547425472,
+        "dimension": 25.8130081300813,
         "children": [
           {
             "id": "d89b314e426fd363",
@@ -246,9 +246,10 @@
   },
   "active": "8c840eb148a10ae9",
   "lastOpenFiles": [
+    "utility/templates/LLM-log.md",
+    "scenario.md",
     "logs/promt-plan.md",
     "shots/shot-list.md",
-    "scenario.md",
     "promt-list.md",
     "asset-list.md",
     "GDD.md",
@@ -257,7 +258,6 @@
     "notes.md",
     "original.md",
     "README.md",
-    "utility/templates/LLM-log.md",
     "outputs/selected",
     "outputs",
     "logs/gdd-log.md",
