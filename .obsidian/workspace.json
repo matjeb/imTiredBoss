@@ -194,11 +194,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "291a1ef62dd05030",
+  "active": "57742dbc2995de51",
   "lastOpenFiles": [
+    "outputs/all/ComfyUI_00089_.png",
+    "outputs/all/ComfyUI_00090_.png",
+    "outputs/all/ComfyUI_00093_.png",
+    "outputs/all/ComfyUI_00070_.png",
+    "outputs/all/ComfyUI_00062_.png",
+    "outputs/all/ComfyUI_00061_.png",
+    "outputs/all/ComfyUI_00054_.png",
+    "outputs/all/ComfyUI_00053_.png",
+    "outputs/all/ComfyUI_00051_.png",
+    "outputs/all/ComfyUI_00047_.png",
+    "outputs/all/ComfyUI_00045_.png",
+    "outputs/all",
     "shots/shot-list.md",
     "logs/workflow-notes.md",
-    "workflows/ComfyUI_00077_.png",
     "workflows/w04_flux1-dev-fp8_txt2img.json",
     "workflows",
     "Новая папка",
@@ -206,7 +217,6 @@
     "logs/promt-plan.md",
     "utility/merge-conflicts.md",
     "original.md",
-    "outputs/selected/ComfyUI_00047_.png",
     "logs/gdd-log.md",
     "styles/style-bible.md",
     "styles",
@@ -226,8 +236,6 @@
     "utility",
     "images/selected.md",
     "images/selected 1.md",
-    "images/selected/b28fb797854d2826244b7e29e6a75207.png",
-    "images/selected",
     "images/raw/wehfwuf.md"
   ]
 }
