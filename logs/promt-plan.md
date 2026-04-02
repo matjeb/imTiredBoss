@@ -1,251 +1,322 @@
-## 1. Кабинет Оракула (локация + персонаж)
+# 🎬 SH01 — Oracle’s Office (локация)
 
-### Версия 1. Классическая, акцент на атмосферу «застывшего времени»
+## 🔹 Version 1 — “наблюдение из двери”
 
-**Задача генерации:** Получить реалистичное изображение кабинета Оракула в стиле советского/постсоветского учреждения 1970–80х с упором на пыльную, тягучую атмосферу.  
-**Positive prompt:**  
-Interior of a small dusty office from the 1970s, Soviet era, dark wood furniture, green glass desk lamp, bookshelves full of old leather books, a gramophone with brass horn, a man in his 50s in a gray jacket sitting at a desk writing with a fountain pen, tired face with glasses, warm dim lighting from the lamp, deep shadows, realistic style, photorealistic, detailed texture, melancholic mood, depth of field, view from doorway.  
-**Negative prompt:**  
-Modern furniture, neon lights, religious symbols, halos, glowing eyes, clutter, messy room, fantasy elements, bright colors, cinematic dramatic lighting, horror elements, blood, weapons, smiling expression.  
-**Критерии отбора:**
+**1. Задача генерации:**  
+Показать пространство как наблюдаемое извне, подчеркнуть дистанцию и чуждость.
 
-- Ощущение «застывшего времени» без признаков современности.
-    
-- Оракул выглядит обычным клерком, не злодеем.
-    
-- Свет только от лампы, тени глубокие, но не пугающие.  
-    **Комментарий:** Базовый вариант, максимально близкий к первоначальному описанию. Делает акцент на реализме и приземлённости.
-    
+**2. Positive prompt:**
 
-### Версия 2. Акцент на «живые тени» и лёгкую тревожность
+low-poly dirty indie game concept art, PS1 aesthetic, noisy textures, analog horror  
+  
+small old office seen from a doorway leading into pitch black void, camera slightly off-angle  
+  
+single green desk lamp casting dim warm light, deep shadows in corners, dusty air, frozen time atmosphere  
+  
+man sitting at desk in half-profile, writing slowly, face partially hidden  
+  
+dark wooden desk, papers, ink, bookshelves, gramophone, parquet floor  
+  
+uncanny, quiet dread, controlled space
 
-**Задача генерации:** Передать, что комната «подчиняется» Оракулу — тени ведут себя неестественно, есть намёк на сверхъестественное без явной магии.  
-**Positive prompt:**  
-Interior of an old dusty office, 1970s Soviet style, dark wood desk with green glass lamp, bookshelves, gramophone, a tired middle-aged man in a gray jacket writing at the desk, subtle unnatural shadows stretching from corners toward the desk, slight motion blur on shadows suggesting movement, warm dim light, eerie calm atmosphere, realistic style, photorealistic, slight vignette, view from doorway.  
-**Negative prompt:**  
-Modern furniture, religious symbols, halos, glowing eyes, explicit ghosts, blood, horror gore, bright colors, cheerful expression, clutter, fantasy elements, cartoon style.  
-**Критерии отбора:**
+**3. Negative prompt:**
 
-- Тени должны выглядеть не просто тёмными, а «направленными» или «живыми».
-    
-- При этом без явных монстров — только атмосфера.
-    
-- Общая реалистичность сохраняется.  
-    **Комментарий:** Этот вариант добавляет намёк на сверхъестественное, что подчёркивает истинную природу Оракула, но сохраняет бытовую обстановку.
-    
+no modern objects, no neon, no candles, no religious symbols, no glowing magic  
+no horror monsters, no gore, no dramatic lighting, no clutter  
+no sinister face, no exaggerated expressions
 
-### Версия 3. План-деталь: крупный план рук Оракула и предметов
+**4. Критерии отбора:**
 
-**Задача генерации:** Сфокусироваться на руках Оракула и деталях стола, передав напряжение и «канцелярскую» жестокость.  
-**Positive prompt:**  
-Close-up of hands of a middle-aged man in a gray jacket writing with a fountain pen on yellowed paper, old wooden desk with ink stains, green glass desk lamp illuminating the hands, mechanical pocket watch, dusty books in background, tired but focused expression partially visible, shallow depth of field, realistic style, photorealistic, melancholic mood.  
-**Negative prompt:**  
-Modern pens, computers, religious symbols, blood, wedding ring, smiling, bright colors, chaotic background, horror elements.  
-**Критерии отбора:**
+- камера реально ощущается как “из двери”
+- свет один (лампа)
+- фигура Оракула не доминирует
+- есть ощущение _контролируемого пространства_
 
-- Чёткая детализация рук, чернильницы, пера, бумаги.
-    
-- Свет создаёт драматичный контраст, но без пафоса.
-    
-- Выражение лица угадывается, но не является главным.  
-    **Комментарий:** Альтернативный ракурс, который делает акцент на «бюрократии смерти» — Оракул просто делает свою работу, и это страшно своей обыденностью.
-    
+**5. Комментарий:**  
+Самый “игровой” вариант — хорошо для establishing shot.
 
 ---
 
-## 2. Квартира протагониста (локация + персонаж)
+## 🔹 Version 2 — “давящая атмосфера”
 
-### Версия 1. Классическая, акцент на упадок и усталость
+**1. Задача:**  
+Усилить ощущение, что комната “живая” и подчинена Оракулу.
 
-**Задача генерации:** Показать главного героя в его квартире в состоянии глубокой депрессии, но без излишней грязи.  
-**Positive prompt:**  
-A man in his early 40s sitting on a worn bed in a small Soviet-era apartment, yellow-gray peeling wallpaper, simple wooden furniture, white t-shirt and jeans, unshaven, tired face with dark circles, holding a cigarette, on a nearby table a vodka bottle and an old revolver, grey overcast daylight from window, melancholic atmosphere, realistic style, photorealistic, medium shot.  
-**Negative prompt:**  
-Gore, blood, smiling, heroic pose, dramatic lighting, warm golden hour, modern furniture, clutter, trash, overt suicide gesture, religious symbols, bright colors.  
-**Критерии отбора:**
+**2. Positive prompt:**
 
-- Герой выглядит обычным, не «крутым».
-    
-- Комната бедная, но не захламлённая.
-    
-- Настроение — безысходность, а не пафос.  
-    **Комментарий:** Базовый вариант, соответствующий описанию.
-    
+low-poly surreal office in void, PS1 style, warped geometry, analog noise  
+  
+dim yellow light from green lamp, shadows subtly shifting and alive, corners swallowing space  
+  
+massive wooden desk, old papers, ink stains, man writing without looking up  
+  
+bookshelves with old books and strange objects, stopped clocks, gramophone  
+  
+floor with dark stains that avoid attention, space feels controlled and unnatural
 
-### Версия 2. Акцент на контраст между разрухой внутри и попыткой порядка
+**3. Negative:**
 
-**Задача генерации:** Показать, что герой ещё пытается сохранять чистоту и порядок, несмотря на внутренний хаос.  
-**Positive prompt:**  
-A man in his 40s sitting on a neatly made bed in a small worn Soviet-era apartment, clean white t-shirt and jeans, short unkempt hair, tired face, cigarette in hand, table with vodka and revolver, but everything is arranged tidily, grey daylight, subtle signs of care (folded blanket, empty ashtray recently cleaned), realistic style, photorealistic, medium shot.  
-**Negative prompt:**  
-Clutter, dirt, trash, blood, heroic pose, dramatic lighting, smiling, modern furniture, bright colors.  
-**Критерии отбора:**
+no fantasy glow, no divine imagery, no monsters, no sci-fi  
+no bright colors, no clean modern design
 
-- Постель заправлена, вещи аккуратны — это важная деталь.
-    
-- Общее настроение — усталость, но не запустение.  
-    **Комментарий:** Подчёркивает, что герой ещё держится, что делает его падение трагичнее.
-    
+**4. Критерии:**
 
-### Версия 3. Деталь: рука с сигаретой и револьвер на столе
+- тени выглядят “неправильными”
+- ощущение, что пространство не статично
+- тревога без явного хоррора
 
-**Задача генерации:** Крупный план руки с сигаретой и револьвера на столе, передающий напряжение и выбор.  
-**Positive prompt:**  
-Close-up of a man's hand holding a cigarette, ash about to fall, on a wooden table beside his hand an old Schofield revolver and a vodka bottle, blurred background of a modest apartment, grey daylight, melancholic mood, realistic style, photorealistic, shallow depth of field.  
-**Negative prompt:**  
-Blood, smiling, heroic pose, bright colors, modern objects, clutter, religious symbols.  
-**Критерии отбора:**
-
-- Револьвер и рука с сигаретой в кадре создают молчаливый диалог.
-    
-- Чёткая детализация старого оружия.  
-    **Комментарий:** Позволяет сгенерировать кадр, который можно использовать как промо или внутриигровой арт.
-    
+**5. Комментарий:**  
+Более атмосферный, менее “реалистичный”.
 
 ---
 
-## 3. Сцена конфликта с офицером (персонажи + локация)
+# 🚬 SH02 — Protagonist Apartment (персонаж + локация)
 
-### Версия 1. Классическая, широкий план, акцент на противостояние
+## 🔹 Version 1 — “тихая безысходность”
 
-**Задача генерации:** Показать всю сцену: протагонист с девочкой, офицер и спецназ, трупы на заднем плане.  
-**Positive prompt:**  
-Wide shot of a mansion interior after a shootout, expensive furniture destroyed, bodies on the floor, a bloodied man in white t-shirt and black fingerless gloves holding a young girl's hand, facing a female police officer in tactical gear with rifle raised, several armed officers behind her, grey morning light from large windows, tense standoff, realistic style, photorealistic, cinematic composition.  
-**Negative prompt:**  
-Smiling faces, heroic poses, clear moral alignment, cartoon style, bright colors, glowing eyes, religious symbols, gore focus, excessive blood.  
-**Критерии отбора:**
+**1. Задача:**  
+Передать состояние героя без драматизации.
 
-- Должно быть понятно напряжение, но без явного указания, кто «прав».
-    
-- Девочка выглядит травмированной, протагонист — уставшим, офицер — решительной, но сомневающейся.  
-    **Комментарий:** Базовый вариант, охватывающий всех участников.
-    
+**2. Positive prompt:**
 
-### Версия 2. Акцент на лице офицера и её сомнение
+low-poly grim apartment interior, PS1 aesthetic, muted colors  
+  
+man sitting on bed, hunched, holding cigarette, tired expression, scars on arms  
+  
+small worn room, peeling wallpaper, old furniture, grey daylight from window  
+  
+table with vodka bottle and revolver in foreground  
+  
+quiet desperation, mundane suffering, static composition
 
-**Задача генерации:** Крупный план офицера, чтобы передать её внутренний конфликт.  
-**Positive prompt:**  
-Close-up of a female police officer in tactical gear, early 30s, aiming a rifle, sweat on forehead, expression of fear and hesitation, eyes slightly wide, finger on trigger guard not trigger, background shows a bloodied man and a child out of focus, grey daylight, realistic style, photorealistic, shallow depth of field.  
-**Negative prompt:**  
-Smiling, anger without nuance, clear villain expression, blood on face, heroic confident look, bright colors.  
-**Критерии отбора:**
+**3. Negative:**
 
-- Лицо офицера показывает борьбу между долгом и жалостью.
-    
-- Её палец не на спусковом крючке — важная деталь.  
-    **Комментарий:** Даёт возможность сфокусироваться на эмоциональном состоянии офицера, ключевом для сцены.
-    
+no cinematic lighting, no dramatic poses, no stylish noir  
+no clean luxury, no extreme dirt  
+no heroic look
 
-### Версия 3. Акцент на руке протагониста и девочке
+**4. Критерии:**
 
-**Задача генерации:** Показать связь протагониста и девочки через деталь — их руки.  
-**Positive prompt:**  
-Close-up of a man's hand holding a child's hand, his hand in black fingerless gloves stained with blood, her hand small and limp, blurred background of armed police officers aiming rifles, grey daylight, melancholic tension, realistic style, photorealistic, shallow depth of field.  
-**Negative prompt:**  
-Smiling, child looking happy, aggressive gestures, bright colors, gore focus.  
-**Критерии отбора:**
+- герой выглядит обычным
+- поза статичная
+- нет “красивой депрессии”
 
-- Руки — главный фокус, передающий хрупкость ситуации.
-    
-- Размер и положение рук должны говорить о том, что ребёнок истощён.  
-    **Комментарий:** Эмоциональный кадр, который можно использовать для промо.
-    
+**5. Комментарий:**  
+Самый “правильный” по ТЗ.
 
 ---
 
-## 4. Спящий мессия (персонаж + локация)
+## 🔹 Version 2 — “давление через композицию”
 
-### Версия 1. Классическая, акцент на истощение и холод
+**1. Задача:**  
+Сделать револьвер главным напряжением сцены.
 
-**Задача генерации:** Показать спящего ребёнка, который не отдыхает, а угасает.  
-**Positive prompt:**  
-A 9-year-old boy sleeping in a worn bed in a small Soviet-era apartment, curled up under a blanket, pale face with dark circles, strained expression, faint breath visible as mist in cold air, grey daylight from window, simple wooden furniture, melancholic atmosphere, realistic style, photorealistic, medium shot.  
-**Negative prompt:**  
-Peaceful sleep, smiling, angelic glow, bright colors, warm lighting, religious halos, happy expression, modern furniture.  
-**Критерии отбора:**
+**2. Positive prompt:**
 
-- Лицо ребёнка должно показывать напряжение, а не умиротворение.
-    
-- Ощущение холода.  
-    **Комментарий:** Базовый вариант.
-    
+low-poly scene, PS1 style  
+  
+foreground: revolver on table, slightly out of focus  
+background: man sitting on bed, tired, smoking  
+  
+small grey apartment, peeling walls, cold light, minimal color  
+  
+heavy stillness, emotional weight, grounded realism
 
-### Версия 2. Акцент на детали (рука, рисунок, икона)
+**3. Negative:**
 
-**Задача генерации:** Крупный план руки ребёнка и предметов на тумбочке, показывающий заботу протагониста.  
-**Positive prompt:**  
-Close-up of a child's hand resting on a worn blanket, beside it a glass of water and a small icon, a child's crayon drawing of a man and child taped to the wall, grey daylight, cold atmosphere, realistic style, photorealistic, shallow depth of field.  
-**Negative prompt:**  
-Blood, injury, smiling child, bright colors, modern objects, religious symbols dominant, happy scene.  
-**Критерии отбора:**
+no action, no gun pointing, no dramatic gestures  
+no warm light, no cinematic framing
 
-- Детали передают безнадёжность и хрупкость надежды.
-    
-- Рука ребёнка безжизненная.  
-    **Комментарий:** Эмоциональный кадр через детали, без показа всего лица.
-    
+**4. Критерии:**
 
-### Версия 3. Акцент на «невидимую работу» (лёгкая искажённость)
+- револьвер читается первым
+- герой — вторым
+- напряжение через дистанцию
 
-**Задача генерации:** Показать, что сон необычен — намёк на молитву или напряжение через едва заметные визуальные эффекты.  
-**Positive prompt:**  
-A 9-year-old boy sleeping in a worn bed, curled up, face strained, faint ethereal glow around his chest almost invisible, cold air, grey daylight, realistic style with subtle surreal elements, photorealistic, medium shot.  
-**Negative prompt:**  
-Bright glow, obvious magic, halos, religious symbols, fantasy style, horror elements, blood.  
-**Критерии отбора:**
-
-- Свечение должно быть почти незаметным, чтобы не разрушать реализм.
-    
-- Общее настроение — тревога, а не чудо.  
-    **Комментарий:** Добавляет метафорический слой «молитвы, которая убивает».
-    
+**5. Комментарий:**  
+Более “режиссёрский” вариант.
 
 ---
 
-## 5. Мир под химией (mood-shot / экшен-сцена)
+# 🩸 SH03 — Mansion Scene (mood-shot)
 
-### Версия 1. Классическая, акцент на эйфорию и искажение
+## 🔹 Version 1 — “моральный конфликт”
 
-**Задача генерации:** Показать протагониста в разгар трипа, убивающего «демона», с ярко выраженными психоделическими искажениями.  
-**Positive prompt:**  
-A man in bloodied white t-shirt and black fingerless gloves swinging a metal pipe at a demon-like creature in human clothes, wide eyes with dilated pupils, manic smile, psychedelic color distortion, neon blood splatter, warped architecture, motion blur, dynamic angle, realistic style with heavy surreal elements, intense atmosphere.  
-**Negative prompt:**  
-Static composition, normal colors, realistic gore, sad expression, heroic pose without madness, cartoon style, religious symbols.  
-**Критерии отбора:**
+**1. Задача:**  
+Показать противостояние без выбора “кто прав”.
 
-- Протагонист выглядит одержимым кайфом, не героем.
-    
-- «Демон» должен быть узнаваем как искажённый человек.
-    
-- Искажения яркие, но не абстрактные.  
-    **Комментарий:** Базовый вариант, передающий ключевую игровую механику.
-    
+**2. Positive prompt:**
 
-### Версия 2. Акцент на контраст (отражение реальности)
+low-poly violent aftermath scene, PS1 aesthetic  
+  
+wide shot, police squad in foreground aiming weapons, man holding girl's hand in background  
+  
+destroyed luxury interior, bodies, blood on floor, grey light  
+  
+man exhausted, not aggressive, girl empty and unresponsive  
+  
+tense standoff, moral ambiguity
 
-**Задача генерации:** Включить в кадр зеркало или отражение, показывающее реальную сцену — человек убивает человека.  
-**Positive prompt:**  
-A man in bloodied white t-shirt swinging a metal pipe at a person, psychedelic distortion all around, but in a cracked mirror on the wall the reflection shows no demons, only a terrified man in a suit being attacked, split reality, dynamic angle, realistic style with surreal elements, intense mood.  
-**Negative prompt:**  
-Happy expression, heroic pose, clear moral message, cartoon style, static composition.  
-**Критерии отбора:**
+**3. Negative:**
 
-- Отражение должно быть чётким, а основная сцена — искажённой.
-    
-- Протагонист в основном кадре — в состоянии эйфории.  
-    **Комментарий:** Добавляет слой трагедии и самообмана, подчёркивает механику двойного зрения.
-    
+no heroic pose, no villain framing, no cinematic glow  
+no excessive gore, no stylization of violence
 
-### Версия 3. Акцент на ломку (переход от трипа к реальности)
+**4. Критерии:**
 
-**Задача генерации:** Показать момент, когда действие наркотика заканчивается — цвета тускнеют, демон начинает обретать человеческие черты.  
-**Positive prompt:**  
-A man in bloodied white t-shirt holding a metal pipe, standing over a wounded figure on the floor, the figure transitioning from demon-like to human, colors desaturating from neon to grey, split effect, realistic style with surreal elements, emotional tension, medium shot.  
-**Negative prompt:**  
-Static scene, both figures fully demonic or fully human, action pose, heroic expression.  
-**Критерии отбора:**
+- дистанция между сторонами ощущается
+- никто не выглядит “правым”
+- девочка — эмоциональный центр
 
-- Переходное состояние — главный визуальный акцент.
-    
-- Выражение лица протагониста: эйфория начинает сменяться ужасом.  
-    **Комментарий:** Позволяет визуализировать ключевой момент «прозрения», который является центральным для нарратива.
+**5. Комментарий:**  
+Основной вариант для нарратива.
+
+---
+
+## 🔹 Version 2 — “изоляция героя”
+
+**1. Задача:**  
+Показать героя как отрезанного от мира.
+
+**2. Positive prompt:**
+
+low-poly scene, PS1 style  
+  
+man and girl isolated in space, background blurred chaos, police barely visible silhouettes  
+  
+grey light, broken mansion, blood stains, quiet tension  
+  
+focus on emotional state, not action
+
+**3. Negative:**
+
+no action, no shooting, no dynamic motion
+
+**4. Критерии:**
+
+- герой визуально “один”
+- пространство давит
+- меньше экшена, больше состояния
+
+**5. Комментарий:**  
+Более психологический вариант.
+
+---
+
+# 😴 SH04 — Sleeping Messiah (персонаж)
+
+## 🔹 Version 1 — “тихая трагедия”
+
+**1. Задача:**  
+Показать страдание без визуального хоррора.
+
+**2. Positive prompt:**
+
+low-poly child sleeping in small room, PS1 aesthetic  
+  
+boy curled under blanket, pale face, strained expression, shallow breathing  
+  
+grey daylight, cold atmosphere, quiet room  
+  
+subtle tension, not peaceful sleep
+
+**3. Negative:**
+
+no angelic imagery, no glow, no beauty aesthetic  
+no dramatic lighting
+
+**4. Критерии:**
+
+- сон выглядит неправильным
+- есть ощущение истощения
+- нет “милоты”
+
+**5. Комментарий:**  
+Самый точный по смыслу.
+
+---
+
+## 🔹 Version 2 — “комната как симптом”
+
+**1. Задача:**  
+Показать, что сам мир реагирует на ребёнка.
+
+**2. Positive prompt:**
+
+low-poly room, PS1 style  
+  
+sleeping child, cold air, frost on window, dim light avoiding the bed  
+  
+objects minimal, space feels drained, unnatural silence
+
+**3. Negative:**
+
+no horror, no ghosts, no supernatural glow
+
+**4. Критерии:**
+
+- холод считывается визуально
+- комната “умирает”
+- ребёнок центр
+
+**5. Комментарий:**  
+Более метафоричный.
+
+---
+
+# 🧪 SH05 — Under Chemistry (mood-shot)
+
+## 🔹 Version 1 — “эйфория насилия”
+
+**1. Задача:**  
+Показать, как герой видит происходящее.
+
+**2. Positive prompt:**
+
+low-poly psychedelic violence, PS1 aesthetic, heavy distortion  
+  
+man mid-strike with pipe, wide smile, ecstatic expression  
+  
+enemies as distorted humanoid demons, neon blood, warped environment  
+  
+motion blur, fisheye lens, saturated colors
+
+**3. Negative:**
+
+no realism, no normal humans, no grounded lighting
+
+**4. Критерии:**
+
+- лицо героя = экстаз
+- враги не выглядят людьми
+- мир искажен
+
+**5. Комментарий:**  
+“игровой” режим.
+
+---
+
+## 🔹 Version 2 — “намёк на правду”
+
+**1. Задача:**  
+Добавить слой реальности.
+
+**2. Positive prompt:**
+
+low-poly psychedelic scene  
+  
+violent action with distortion, but reflective surface showing normal human victim  
+  
+contrast between hallucination and reality
+
+**3. Negative:**
+
+no full clarity, no clean realism
+
+**4. Критерии:**
+
+- есть двойное чтение сцены
+- игрок может заметить подвох
+
+**5. Комментарий:**  
+Более глубокий нарративный вариант.
