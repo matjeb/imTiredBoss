@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f5ad2774eaaaf610",
+        "id": "d4d1007b3c9fc79c",
         "type": "tabs",
         "children": [
           {
-            "id": "059762cc98f8061f",
+            "id": "291a1ef62dd05030",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scenario.md",
+                "file": "assets/asset-list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "scenario"
+              "title": "asset-list"
             }
           }
         ]
@@ -72,20 +72,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Закладки"
-            }
-          },
-          {
-            "id": "94d417ccda26d660",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "utility/templates/LLM-log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LLM-log"
             }
           }
         ]
@@ -170,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/gdd-log.md",
+                "file": "promt-list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура gdd-log"
+              "title": "Структура promt-list"
             }
           },
           {
@@ -208,49 +194,50 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "059762cc98f8061f",
+  "active": "291a1ef62dd05030",
   "lastOpenFiles": [
-    "styles/style-bible.md",
-    "GDD.md",
-    "scenario.md",
-    "notes.md",
-    "utility/merge-conflicts.md",
-    "aisd.md",
-    "outputs/selected/`01-w04-location-oracle's-office.png",
-    "outputs/selected/`01-w04-character-protagonist.png",
-    "outputs/selected/`01-w04-character-messiah.png",
-    "outputs/selected/`01-w04-mood-officer-and-protagonist-scene.png",
-    "README.md",
-    "index.md",
-    "logs/workflow-notes.md",
+    "assets/ComfyUI_00261_.png",
+    "assets/ComfyUI_00262_.png",
+    "assets/ComfyUI_00258_.png",
     "logs/promt-plan.md",
-    "`01-w04-location-oracle's-office.md",
-    "кабинет оракула.md",
-    "logs/gdd-log.md",
-    "outputs/selected/`01-w04-moodshot-officer-and-protagonist-scene.png",
-    "outputs/selected/`01-w04-.png",
-    "outputs/selected/ComfyUI_00076_.png",
-    "utility/templates/LLM-log.md",
-    "outputs/all/Anima_00001_.png",
-    "outputs/all/aee9f9cd-acb2-4fef-9bdf-a1d44acd7d36.jpg",
-    "workflows/w04_flux1-dev-fp8_txt2img.json",
-    "outputs/selected",
-    "outputs/all/oracle.jpg",
-    "outputs/all",
-    "outputs",
-    "styles",
+    "assets/ComfyUI_00253_.png",
+    "assets/ComfyUI_00252_.png",
+    "assets/ComfyUI_00248_.png",
     "shots/shot-list.md",
-    "shots/shot-list",
-    "shots",
-    "lore.md",
-    "gitignore.gitignore..txt",
-    "Текстовый документ.txt",
+    "notes.md",
+    "assets/ComfyUI_00240_.png",
+    "assets/ComfyUI_00238_.png",
+    "assets/ComfyUI_00237_.png",
+    "assets/ComfyUI_00227_.png",
+    "assets/asset-list.md",
+    "scenario.md",
+    "assets",
+    "asset-list.md",
+    "utility/merge-conflicts.md",
+    "logs/workflow-notes.md",
+    "algorhytms.md",
+    "outputs/selected/`01-w04-character-messiah.png",
+    "outputs/all",
+    "workflows/w04_flux1-dev-fp8_txt2img.json",
+    "workflows",
+    "Новая папка",
+    "GDD.md",
     "original.md",
-    "utility/templates",
+    "logs/gdd-log.md",
+    "styles/style-bible.md",
+    "styles",
+    "conflict-files-obsidian-git.md",
+    "utility/templates/LLM-log.md",
     "promt-list.md",
+    "index.md",
+    "lore.md",
+    "README.md",
+    "outputs/selected",
+    "outputs",
+    "shots",
+    "utility/templates",
     "images/selected.md",
     "images/selected 1.md",
-    "asset-list.md",
     "images/raw/wehfwuf.md"
   ]
 }
