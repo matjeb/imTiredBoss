@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "refs/character_oracle.md",
+                "file": "logs/workflow-notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "character_oracle"
+              "title": "workflow-notes"
             }
           },
           {
@@ -238,9 +238,9 @@
   },
   "active": "059762cc98f8061f",
   "lastOpenFiles": [
+    "refs/character_oracle.md",
     "logs/gdd-log.md",
     "utility/templates/LLM-log.md",
-    "refs/character_oracle.md",
     "assets/asset-list.md",
     "refs/1f2920552357eea768781d43f5d2c241.jpg",
     "refs/Не подтвержден 551448.crdownload",
