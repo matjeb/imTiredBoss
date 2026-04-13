@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "refs/character_oracle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "character_oracle"
             }
           }
         ],
@@ -225,9 +225,11 @@
   },
   "active": "1a4e665a096aad2f",
   "lastOpenFiles": [
+    "refs/1f2920552357eea768781d43f5d2c241.jpg",
+    "refs/Не подтвержден 551448.crdownload",
+    "README.md",
     "original.md",
     "refs/character_oracle.md",
-    "README.md",
     "scenario.md",
     "Без названия.md",
     "refs",
@@ -264,7 +266,6 @@
     "shots/shot-list",
     "shots",
     "lore.md",
-    "gitignore.gitignore..txt",
     "promt-list.md",
     "images/selected.md",
     "images/selected 1.md",
