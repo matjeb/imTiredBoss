@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design/logs/workflow-notes.md",
+                "file": "characters/hero.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "workflow-notes"
+              "title": "hero"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "scenario"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,27 +208,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c0b8d9faa5b009a",
+  "active": "291a1ef62dd05030",
   "lastOpenFiles": [
+    "outputs/selected/`01-w06-scene-happy-dream`.png",
+    "outputs/selected/ComfyUI_00327_.png",
+    "outputs/selected/`01-w06-scene-oracle-and-victor`.png",
+    "outputs/selected/`01-w06-scene-turning-point`.png",
+    "outputs/selected/`01-w06-scene-.png",
+    "outputs/selected/ComfyUI_00285_.png",
     "scenario.md",
     "characters/hero.md",
+    "refs/characters.md",
     "design/logs/workflow-notes.md",
     "outputs/selected/`01-w04-character-protagonist.png",
     "outputs/selected/`01-w04-character-messiah.png",
     "outputs/selected/`01-w04-location-oracle's-office.png",
     "outputs/selected/`01-w04-mood-officer-and-protagonist-scene.png",
     "outputs/selected/`01-w05-style-a-01.png`.png",
-    "outputs/selected/`02-w05-style-a-02.png`.png",
-    "outputs/selected/`03-w05-style-a-03.png`.png",
-    "outputs/selected/`04-w05-style-b-01.png`.png",
-    "outputs/selected/`07-w05-style-baseline-01.png`.png",
-    "outputs/selected/`06-w05-style-b-03.png`.png",
     "GDD.md",
     "characters",
     "workflows/`w06_multiprompt`.json",
     "utility/merge-conflicts.md",
     "Без названия.base",
-    "refs/characters.md",
     "refs",
     "design/constants.md",
     "design",
