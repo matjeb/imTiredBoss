@@ -29,6 +29,13 @@ create a concept-art for my indie-game scene. try to make a dirty graphic style 
 - **Oracle must not look sinister.** No glowing eyes, no demonic features. He's a clerk, a tired bureaucrat. His power shows not in appearance, but in how the room *obeys* him (walls can shift, lights die if he wills it).
 - **No clutter.** Not messy. Everything in its place, even dust lies evenly. A *controlled* space, despite its old-fashioned look.
 
+**что этот кадр показывает**: локацию и важного персонажа, атмосферу.
+**кандидат в кадры**: `01-w04-location-oracle's-office`
+**улучшения**: не требует улучшений, он идеален.
+**что требует доработки**: ничего. максимум, может, сделать более low-poly.
+**контроль**: пока не требуется
+
+# Shot ID: SH02
 ## Protagonist in His Apartment
 
 **Purpose:** Establishes the protagonist's visual identity and living environment. Shows who he is before the Oracle's intervention — a broken man holding onto the last threads of dignity.
@@ -60,6 +67,13 @@ create a concept-art for my indie-game scene. try to make a dirty graphic style 
 - **No "handsome" casting.** The protagonist is ordinary. Not ugly, but not memorable. He looks like any man who worked a factory job for twenty years and had the life slowly drained out of him.
 - **No warm colors.** No golden hour light, no cozy warmth. The palette is grey, beige, faded yellow, worn brown. Life has leached out of this space.
 
+**что этот кадр показывает**: локацию и главного героя, атмосферу.
+**кандидат в кадры**: `01-w04-character-protagonist`
+**улучшения**: нет.
+**что требует доработки**: сделать более low-poly модели, сделать протагониста более крепким (сейчас какой-то доходяга).
+**контроль**: пока не требуется.
+
+# Shot ID: SH03
 ## Scene in Mansion
 
 **Purpose:** One of the most important scenes in the game. A turning point where two opposing protagonists meet face to face. Establishes the moral weight of the story and the human cost behind the gameplay.  
@@ -87,6 +101,12 @@ create a concept-art for my indie-game scene. try to make a dirty graphic style 
 - **No excessive gore.** Blood is present, but the bodies are suggested, not lingered on. The focus is on the living.
 - **No clear visual cues for who is "right."** The scene should not tell the player who to side with. The tension should remain unresolved.
 
+**что этот кадр показывает**: столкновение двух противостоящих героев, сложный конфликт, напряжение.
+**кандидат в кадры**: `01-w04-mood-officer-and-protagonist-scene`
+**улучшения**: нет (пытался убрать свечение с помощью img2img, ничего не помогло). 
+**что требует доработки**: сделать более low-poly модели; убрать неуместное свечение позади виктора и девочки, будто они выходят из портала в рай, солдаты должны целиться в виктора.
+**контроль**: пока не требуется.
+# Shot ID: SH04
 ## The Sleeping Messiah
 
 **Purpose:** One of the central characters of the story. The emotional anchor for the protagonist and the player. Represents the impossible cost of salvation — a child sacrificed without consent to sustain God and humanity.
@@ -137,6 +157,12 @@ create a concept-art for my indie-game scene. try to make a dirty graphic style 
     
 - **No sentimentality.** The scene should evoke sorrow, not pity. Pity distances the viewer. Sorrow connects them. The child is not a plot device to be mourned — he is a person being destroyed, and the player should feel the weight of that without being told how to feel.
 
+**что этот кадр показывает**: важного персонажа, мотивацию поступков виктора.
+**кандидат в кадры**: `01-w04-character-messiah`
+**улучшения**: нет (пытался убрать свечение с помощью img2img, ничего не помогло). 
+**что требует доработки**: сделать более low-poly модели.
+**контроль**: пока не требуется.
+# Shot ID: SH05
 ## The World Under Chemistry (Protagonist's Perspective)
 
 **Purpose:** The core gameplay aesthetic. Defines how the player experiences violence under the influence of the "divine chemistry." Establishes the visual language of addiction, euphoria, and self-deception.  
@@ -163,3 +189,9 @@ create a concept-art for my indie-game scene. try to make a dirty graphic style 
 - **No clear distinction between "good" and "evil" enemies.** The demons are enemies, yes, but they are also _people_. The drug obscures this, but the art should hint at the truth beneath — in a reflection, in a moment of clarity, in a detail that doesn't quite fit the demonic form.
 - **No static composition.** The image should feel like a single frame ripped from something in motion — blurred edges, sense of speed, anticipation of the next blow.
 - **No overt moralizing.** The scene does not say "this is bad." It shows the experience of the drug, the ecstasy of violence, the beauty of destruction. The horror comes from what the player _knows_ outside this moment, and from what they will see when the drug wears off.
+
+**что этот кадр показывает**: примерный, очень приблизительный кадр геймплея.
+**кандидат в кадры**: `07-w05-style-baseline-01.png`
+**улучшения**: нет.
+**что требует доработки**: не хватает психоделии (flux не смог нормально это сделать); камера должна быть от первого лица протагониста (flux это не понимает); не хватает динамики.
+**контроль**: пока не требуется.
