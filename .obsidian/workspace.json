@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -249,19 +249,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d434ce51a16a4bb",
+  "active": "01a9ec4d2f97a342",
   "lastOpenFiles": [
+    "outputs/selected/01-w06-scene-happy-dream2.png",
+    "scenario (WIP).md",
+    "shots/shot-list.md",
     "outputs/selected/03-w07-inpaint-before.png",
     "outputs/selected/04-w07-inpaint-after.png",
     "outputs/selected/03-w07-inpaint-before (2).png",
     "outputs/selected/01-w04-location-oracle's-office.png",
-    "shots/shot-list.md",
     "todo.md",
     "Без названия.base",
-    "outputs/selected/01-w06-scene-happy-dream2.png",
     "outputs/selected/01-w06-scene-happy-dream.png",
     "README.md",
-    "scenario (WIP).md",
     "workflows/w07_inpaint.json",
     "workflows/w07_img2img.json",
     "outputs/selected/02-w07-img2img-after.png",
@@ -271,7 +271,6 @@
     "workflows/w06_multiprompt.json",
     "outputs/selected/ComfyUI_00336_.png",
     "outputs/selected/07-w05-style-baseline-01.png.png",
-    "outputs/selected/06-w05-style-b-03.png.png",
     "GDD.md",
     "styles/style-bible.md",
     "design/logs/promt-plan.md",
